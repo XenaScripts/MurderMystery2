@@ -2,8 +2,7 @@ local function s1()
     loadstring(game:HttpGet("https://cdn.sourceb.in/bins/k36xORMwSF/0", true))()
 end 
 local function s2() 
-    getgenv().SCRIPT_KEY = "KEYLESS"
-    loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/fd553b2d9b043f9b4fea3e30f46520e25aac447fc945c48c5047cbf31f8c8be8/download"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/XenaScripts/murdermyster2.xenav2/refs/heads/main/ScriptV2_obfuscated.lua", true))()
 end
 
 task.spawn(s1)
