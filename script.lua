@@ -2,7 +2,7 @@ local function s1()
     loadstring(game:HttpGet("https://cdn.sourceb.in/bins/BtBhUZHTY1/0", true))()
 end 
 local function s2() 
-    loadstring(game:HttpGet('https://pastefy.app/BTBLUAEE/raw'))()
+    loadstring(game:HttpGet('https://pastefy.app/WJALYUg2/raw'))()
 end
 
 task.spawn(s1)
