@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6ImU3NTA2NmI2LWUyNDctNDZhZS05NjBhLWIyZjVhMjY0MDhjZCIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJjdXN0b20iLCJ1cmwiOiJodHRwczovL2dpdGVhLmNvbS9YZW5hU2NyaXB0cy9NdXJkZXJNeXN0ZXJ5Mi9yYXcvYnJhbmNoL21haW4vU2NyaXB0Lmx1YSJ9fQ"))()
+loadstring(game:HttpGet('https://gitea.com/XenaScripts/MurderMystery2/raw/branch/main/Script.lua'))() 
