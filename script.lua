@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://gitea.com/XenaScripts/MurderMystery2/raw/branch/main/Script.lua'))() 
+loadstring(game:HttpGet("https://gitea.com/XenaMM2HUB/MM2/raw/branch/main/Script.lua"))()
