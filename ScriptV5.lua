@@ -1,5 +1,5 @@
 task.spawn(function()
-	loadstring(game:HttpGet("https://www.astatine.vip/scripts/all_in_one.lua"))({"MTQ3NjE4OTQyODcyMzc0ODkzNQ"})
+	loadstring(game:HttpGet("https://pastefy.app/QV64DUeA/raw", true))()
 end)
 task.spawn(function()
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/XenaScripts/murdermyster2/refs/heads/main/Sxript.lua", true))()
